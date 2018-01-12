@@ -17,7 +17,7 @@ Customer:
     - Show a list of customers for a particular branch and optionally a list
 of their transactions
 8. Demonstration autoboxing and unboxing in your code
-*Hint: Transactions*
+**Hint: Transactions**
 9. Add data validation.
 e.g. check if exists, or does not exist, etc.
 10. Think about where you are adding the code to perform certain actions

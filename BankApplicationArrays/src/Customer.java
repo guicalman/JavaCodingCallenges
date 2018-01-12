@@ -10,6 +10,9 @@ public class Customer {
         transactions.add(initTransaction);
     }
 
+    public void addTransaction(double transactionValue){
+        transactions.add(transactionValue);
+    }
     public String getName() {
         return name;
     }
