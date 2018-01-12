@@ -8,8 +8,8 @@ Your job is to create a simple banking application.
 Customer:
     - Name, and the ArrayList of doubles.
     - Branch:
-5. Need to be able to add a new customer and initial transaction amount.
-6. Also needs to add additional transactions for that customer/branch
+5. The branch must be able to add a new customer and initial transaction amount.
+6. Also the branch, needs to add additional transactions for that customer/branch
 7. Bank:
     - Add a new branch
     - Add a customer to that branch with initial transaction
